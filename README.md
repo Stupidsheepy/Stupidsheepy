@@ -1,17 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I am Stupidsheep//
 
-Hi there 👋, I am Stupidsheep//
-🔭 I’m currently studying in a Chinese college.
+- 🔭 I’m currently studying in a Chinese college.
 
-🌱 I’m currently learning Vue.js.
+- 🌱 I’m currently learning Vue.js.
 
-🤔 I’m looking for help with front end.
+- 🤔 I’m looking for help with front end.
 
-📫 How to reach me: stupiggysheepy@gmail.com.
+- 📫 How to reach me: stupiggysheepy@gmail.com.
 
-😄 Pronouns: He/him.
+- 😄 Pronouns: He/him.
 
-😎 Just let's go bro!!!
+- 😎 Just let's go bro!!!
 
 ---
 
