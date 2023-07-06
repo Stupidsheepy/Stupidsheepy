@@ -13,6 +13,6 @@
 - 😎 Just let's go bro!!!
 
 ---
-![](https://github-readme0stats-xi.vercel.app/api?username=stupidsheepy&count_private=true&theme=tokyonight&card_width=495)
+![](https://github-readme0stats-xi.vercel.app/api?username=stupidsheepy&count_private=true&theme=tokyonight&card_width=495.00005)
 
 ![](https://gh.stupidsheep.fun/api/wakatime?username=stupidsheep&layout=compact)
