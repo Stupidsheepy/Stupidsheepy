@@ -14,4 +14,4 @@
 
 ---
 
-<img src="https://github-readme0stats-xi.vercel.app/api?username=stupidsheepy&count_private=true&theme=tokyonight" width="447.5px" height="214px"/><img src="https://github-readme0stats-xi.vercel.app/api/wakatime?username=stupidsheep&layout=compact&theme=tokyonight&langs_count=10" width="447.5px" height="214px"/> 
+<img src="https://github-readme0stats-xi.vercel.app/api?username=stupidsheepy&count_private=true&theme=tokyonight" width="410px" height="214px"/><img src="https://github-readme0stats-xi.vercel.app/api/wakatime?username=stupidsheep&layout=compact&theme=tokyonight&langs_count=10" width="410px" height="214px"/> 
